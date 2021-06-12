@@ -16,9 +16,9 @@ that much resources so you can leave it in the background in the chance of you h
 It's like mining but with less resources
 
 Modyfied by:
-13Anonymous37 GitHub
-@13Anon37     TikTok
-@ch_anon      Telegram
+HowdyWorld      GitHub
+@howdyworlds    TikTok
+@chan_anon      Telegram
         """)
 
 helpText()
